@@ -1,4 +1,5 @@
-% Transmitter 
+% Transmitter
+
 close all; clear all;
 
 % Set the seed for the random number generator

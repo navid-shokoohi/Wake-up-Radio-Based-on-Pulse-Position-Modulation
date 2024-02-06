@@ -1,4 +1,5 @@
 % Receiver
+
 fs = 1e6;
 fc = 433e6;
 SamplesPerFrame = 7152;
